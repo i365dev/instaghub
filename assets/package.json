@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "imagesloaded": "^4.1.4",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jquery-bridget": "^2.0.1",
     "masonry-layout": "^4.2.2",
     "phoenix": "file:../deps/phoenix",
